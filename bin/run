@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby       #operator knows to interpret file through ruby
+
+require './lib/louisville_events'
+
+LouisvilleEvents::CLI.new.call      #class called CLI, instantiate with new,
+#  call to start the program 
+
