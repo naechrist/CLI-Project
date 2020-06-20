@@ -1,28 +1,15 @@
-# FourthStreetLive
+# LouisvilleEvents
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/fourth_street_live`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to Kentuckiana! Kentuckiana is bescially Louisville, Kentucky and most of Southern Indiana. We are all very close so we share everything. Sharing is caring of course. Here you can find every single upcoming event that will be happening. And there will most likely be a lot to chose from! As you pick which event you want to go to, you will see all of the details you need. So take your pick and have a great time!!
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'fourth_street_live'
-```
-
-And then execute:
-
-    $ bundle install
-
-Or install it yourself as:
-
-    $ gem install fourth_street_live
+To run this program you will need ruby installed on your computer. Fork and clone it into your local environment. 
+Cd into fourth_street_live/ 
+Type ./bin/run to run the program.
 
 ## Usage
-
-TODO: Write usage instructions here
+Follow along with the code. It will tell you exactly what you need to do.
 
 ## Development
 
