@@ -1,6 +1,6 @@
 # LouisvilleEvents
 
-Welcome to Kentuckiana! Kentuckiana is bescially Louisville, Kentucky and most of Southern Indiana. We are all very close so we share everything. Sharing is caring of course. Here you can find every single upcoming event that will be happening. And there will most likely be a lot to chose from! As you pick which event you want to go to, you will see all of the details you need. So take your pick and have a great time!!
+Welcome to Kentuckiana! Kentuckiana is the Louisville, Kentucky area and most of Southern Indiana. We are all very close so we share everything. Sharing is caring of course. Here you can find every single upcoming event that will be happening. And there will most likely be a lot to chose from! As you pick which event you want to go to, you will see all of the details you need. So take your pick and have a great time!!
 
 ## Installation
 
