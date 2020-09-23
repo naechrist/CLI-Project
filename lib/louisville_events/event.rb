@@ -16,10 +16,19 @@ class Event
         @@all 
     end
 
+    def self.get_by_year 
+        self.all.select do |t|
+          if t.year > 2020 
+            t
+          end
+          
+        end
+        
+        #return an array of all event objects who's year is greater than 2020 
+
+    end
+
 end
-
-
-
 
 
 
